@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\migrations\\20240329083444_datt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\migrations\\20240329083444_datt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\migrations\\20240329083444_datt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\migrations\\20240329083444_datt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\n\u0103m 2\\h\u1ECDc k\u1EF3 3\\lap trinh web 2\\bai tap\\api tutorial\\api tutorial\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7084D9B6-1C5E-4F52-BD80-87EC4061FC20}|Api Tutorial\\Api Tutorial.csproj|solutionrelative:api tutorial\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Program.cs",
+              "RelativeToolTip": "Api Tutorial\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:56:09.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Services\\ILibraryService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "Api Tutorial\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:37:42.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api Tutorial\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:21:54.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "Api Tutorial\\appsettings.json",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\appsettings.json",
+              "RelativeToolTip": "Api Tutorial\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T07:55:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240329083444_Datt.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Migrations\\20240329083444_Datt.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Migrations\\20240329083444_Datt.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Migrations\\20240329083444_Datt.cs",
+              "RelativeToolTip": "Api Tutorial\\Migrations\\20240329083444_Datt.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:34:45.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Api Tutorial\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:43:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Api Tutorial\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:46:44.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240329083444_Datt.Designer.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Migrations\\20240329083444_Datt.Designer.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Migrations\\20240329083444_Datt.Designer.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Migrations\\20240329083444_Datt.Designer.cs",
+              "RelativeToolTip": "Api Tutorial\\Migrations\\20240329083444_Datt.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:49:15.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Services\\LibraryService.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Services\\LibraryService.cs",
+              "RelativeToolTip": "Api Tutorial\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:40:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Api Tutorial\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:23:42.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Models\\Author.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Models\\Author.cs",
+              "RelativeToolTip": "Api Tutorial\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:18:16.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Models\\Books.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Models\\Books.cs",
+              "RelativeToolTip": "Api Tutorial\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:17:04.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Api Tutorial\\Models\\Genre.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\N\u0103m 2\\H\u1ECDc K\u1EF3 3\\Lap Trinh WEB 2\\Bai Tap\\Api Tutorial\\Api Tutorial\\Models\\Genre.cs",
+              "RelativeToolTip": "Api Tutorial\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:16:18.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
